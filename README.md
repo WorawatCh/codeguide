@@ -24,14 +24,12 @@ public void DoSomething(int value){
 }
 ```
 It look better right?.It is easy way to het your code better to look and find the error
-Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/Greatnumber.java
-
+Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/Greatnumber.java <br />
 Reference: https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
 
 ## Use meaningful variable names
-Always use descriptive variable & method names:
-Good: gameBoard, player, piece, moveTo( Piece, x, y)
-
+Always use descriptive variable & method names:<br />
+Good: gameBoard, player, piece, moveTo( Piece, x, y)<br />
 Bad:   b,  play, pc, mv( Piece, x, y)
 ```
      public static void main(String[] args) {
@@ -54,6 +52,5 @@ public static void main(String[] args) {
 		System.out.print("Your Major :");
 		String major = input.nextLine();
 ```
-Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/SphereVolumeCalculator.java
-
+Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/SphereVolumeCalculator.java<br />
 Reference: https://bitbucket.org/skeoop/oop/src/47ffbac7eee8b3215370bde0b17f12e599aff768/week5/Coding-Guidelines.ppt?at=master&fileviewer=file-view-default
