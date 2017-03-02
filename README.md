@@ -1,5 +1,5 @@
 # codeguide
-# Avoid Deep Nesting
+## Avoid Deep Nesting
 Too many levels of nesting can make code harder to read and follow.
 Instead of this
 ```
@@ -25,11 +25,13 @@ public void DoSomething(int value){
 ```
 It look better right?.It is easy way to het your code better to look and find the error
 Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/Greatnumber.java
+
 Reference: https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
 
-# Use meaningful variable names
+## Use meaningful variable names
 Always use descriptive variable & method names:
 Good: gameBoard, player, piece, moveTo( Piece, x, y)
+
 Bad:   b,  play, pc, mv( Piece, x, y)
 ```
      public static void main(String[] args) {
@@ -53,4 +55,5 @@ public static void main(String[] args) {
 		String major = input.nextLine();
 ```
 Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/SphereVolumeCalculator.java
+
 Reference: https://bitbucket.org/skeoop/oop/src/47ffbac7eee8b3215370bde0b17f12e599aff768/week5/Coding-Guidelines.ppt?at=master&fileviewer=file-view-default
