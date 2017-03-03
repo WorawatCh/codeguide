@@ -25,7 +25,7 @@ public void DoSomething(int value){
 ```
 It look better right?.It is easy way to het your code better to look and find the error <br />
 Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/Greatnumber.java <br />
-Reference: https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
+Reference: http://softwareengineering.stackexchange.com/questions/2204/how-to-prevent-deep-indentations
 
 ## Use meaningful variable names
 Always use descriptive variable & method names:<br />
