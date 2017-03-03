@@ -23,7 +23,7 @@ public void DoSomething(int value){
     //All preconditions are safe execute code
 }
 ```
-It look better right?.It is easy way to het your code better to look and find the error
+It look better right?.It is easy way to het your code better to look and find the error <br />
 Exercise : https://github.com/WorawatCh/codeguide/blob/master/src/Greatnumber.java <br />
 Reference: https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118
 
